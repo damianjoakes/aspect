@@ -1,2 +1,7 @@
 /target
 /docs/book
+/.idea/.gitignore
+/.idea/aspect.iml
+/Cargo.lock
+/.idea/modules.xml
+/.idea/vcs.xml
